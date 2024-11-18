@@ -1069,7 +1069,7 @@ footer a{
 
   .nav-close-btn{
     position: absolute;
-    background: url(../images/close-btn.png)no-repeat;
+    background: url(close-btn.png)no-repeat;
     filter: var(--color-filter);
     background-size: 12px;
     background-position: center;
@@ -1082,7 +1082,7 @@ footer a{
   }
 
   .nav-menu-btn{
-    background: url(../images/menu-btn.png)no-repeat;
+    background: url(menu-btn.png)no-repeat;
     filter: var(--color-filter);
     background-size: 30px;
     background-position: center;
@@ -1191,7 +1191,7 @@ footer a{
 }
 
 /*=======Media query max-width 730px=======*/
-@media screen and (max-width: 730px){
+@media screen and (max-width: 1070px){
   /*=======Common styles for all sections=======*/
   body{
     margin: 5rem 0 0 0;
